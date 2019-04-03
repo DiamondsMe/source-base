@@ -1,0 +1,18 @@
+{
+    "name": "diamonds-source",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "upload": "git add . && git commit -m \"ci\" && git push origin master"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:DiamondsMe/source-base.git"
+    },
+    "keywords": [
+        "source"
+    ],
+    "author": "DiamondsMe",
+    "license": "ISC"
+}
